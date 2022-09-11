@@ -1,6 +1,7 @@
 #Working with binary files
 
 import pickle
+import os
 
 #Create a binary record/ Append more data to an existing binary record file
 def Create_rec():
